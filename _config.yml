@@ -1,0 +1,32 @@
+
+title: "Isaiah Keating"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/iKeating\">@iKeating on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/iKeating\">@iKeating on Micro.blog</a>."
+baseurl: ""
+url: "https://iKeating.micro.blog"
+markdown: "kramdown"
+username: "iKeating"
+microblog_user: "iKeating"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Isaiah Keating"
+name: "Isaiah Keating"
+gravatar_hash: "102c1f4dff98b290dc0e9de7ba8cf944"
+avatar: "https://micro.blog/iKeating/avatar.jpg"
+full_name: "Isaiah Keating"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Indiana-Starke"
+site_id: "1794"
+gems: ["jekyll-paginate"]
+itunes_description: "Proud father, Minnesota Twins fan⚾️, and public servant.  Furthering my college education with an emphasis towards mathematics."
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Isaiah Keating"
+itunes_email: ""
+podcast: false
