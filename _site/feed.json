@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://iKeating.micro.blog/2018/11/18/gen-x-tech.html",
+	      	
+			"content_html": "<p>Gen X tech👍</p>\n\n<p><img src=\"https://iKeating.micro.blog/uploads/2018/bb14dc102d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-17T19:56:15-06:00",
+			"url": "https://iKeating.micro.blog/2018/11/17/gen-x-tech.html"
+		},
+		
+		{
+			"id": "http://iKeating.micro.blog/2018/11/13/not-sure-what.html",
+	      	
+			"content_html": "<p>Not sure what caused this.</p>\n\n<p><img src=\"https://iKeating.micro.blog/uploads/2018/b75b480af1.jpg\" width=\"312\" height=\"312\" /></p>\n",
+			"date_published": "2018-11-12T19:42:06-06:00",
+			"url": "https://iKeating.micro.blog/2018/11/12/not-sure-what.html"
+		},
+		
+		{
 			"id": "http://iKeating.micro.blog/2018/11/12/i-came-across.html",
 	      	
 			"content_html": "<p>I came across this quote today, “Achilles, without his heel, you wouldn’t even know his name today”. ~ Stan Lee ~</p>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Sunset is moving to the south, definit sign fall is approaching.</p>\n\n<p><img src=\"http://iKeating.micro.blog/uploads/2018/e5b525f5ad.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-30T20:35:16-05:00",
 			"url": "https://iKeating.micro.blog/2018/08/30/sunset-is-moving.html"
-		},
-		
-		{
-			"id": "http://iKeating.micro.blog/2018/08/27/completed-the-emergency.html",
-	      	
-			"content_html": "<p>Completed the Emergency Vehicle Operations Course (EVOC) today at the <a href=\"http://meritcenter.com\">Merit Center</a>.  Great training facility👍</p>\n\n<p><img src=\"http://iKeating.micro.blog/uploads/2018/62681c63a2.jpg\" width=\"450\" height=\"600\" /><img src=\"http://iKeating.micro.blog/uploads/2018/af4679408f.jpg\" width=\"600\" height=\"450\" /><img src=\"http://iKeating.micro.blog/uploads/2018/61e2dff9a0.jpg\" width=\"600\" height=\"600\" /><img src=\"http://iKeating.micro.blog/uploads/2018/c94f5965c5.jpg\" width=\"600\" height=\"600\" /><img src=\"http://iKeating.micro.blog/uploads/2018/cf50b31dcd.jpg\" width=\"600\" height=\"471\" /><img src=\"http://iKeating.micro.blog/uploads/2018/97dd8c36b0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-27T16:08:06-05:00",
-			"url": "https://iKeating.micro.blog/2018/08/27/completed-the-emergency.html"
-		},
-		
-		{
-			"id": "http://iKeating.micro.blog/2018/08/25/the-burning-hand.html",
-	      	
-			"content_html": "<p>The burning hand of Prometheus</p>\n\n<p><img src=\"http://iKeating.micro.blog/uploads/2018/596943848d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-24T22:45:16-05:00",
-			"url": "https://iKeating.micro.blog/2018/08/24/the-burning-hand.html"
 		}
 		
 	]
