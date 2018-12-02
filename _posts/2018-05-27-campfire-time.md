@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/e224a8eadf.jpg
 date: 2018-05-26 21:16:09 -0500
 guid: http://iKeating.micro.blog/2018/05/27/campfire-time.html
 ---
