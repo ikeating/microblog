@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/2e12616a47.jpg
 date: 2018-02-24 21:22:42 -0500
 guid: http://iKeating.micro.blog/2018/02/25/assembled-a-simple.html
 ---
