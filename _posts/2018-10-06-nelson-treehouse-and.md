@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/403340d425.jpg
 date: 2018-10-05 21:47:14 -0500
 guid: http://iKeating.micro.blog/2018/10/06/nelson-treehouse-and.html
 ---
