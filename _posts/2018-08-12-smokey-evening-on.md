@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/f4d6ee10a2.jpg
 date: 2018-08-11 23:05:50 -0500
 guid: http://iKeating.micro.blog/2018/08/12/smokey-evening-on.html
 ---
