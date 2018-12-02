@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/ec3a3df411.jpg
 date: 2018-08-31 21:45:21 -0500
 guid: http://iKeating.micro.blog/2018/09/01/we-stopped-at.html
 ---
