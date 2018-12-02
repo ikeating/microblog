@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/cdbc14ddc7.jpg
 date: 2018-03-19 21:51:58 -0500
 guid: http://iKeating.micro.blog/2018/03/20/spent-today-getting.html
 ---
