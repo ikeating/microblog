@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-17 16:59:33 -0500
 guid: http://iKeating.micro.blog/2018/02/17/we-should-not.html
 ---
