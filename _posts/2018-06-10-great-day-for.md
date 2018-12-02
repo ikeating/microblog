@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/16325dc341.jpg
 date: 2018-06-09 22:08:12 -0500
 guid: http://iKeating.micro.blog/2018/06/10/great-day-for.html
 ---
