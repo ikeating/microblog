@@ -3,6 +3,7 @@ layout: post
 title: "Minnesota Institute Of Art"
 microblog: false
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/b1e394cb83.jpg
 date: 2018-07-15 15:02:57 -0500
 guid: http://iKeating.micro.blog/2018/07/15/minnesota-institute-of.html
 ---
