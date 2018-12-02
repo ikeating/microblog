@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/be9e941525.jpg
 date: 2018-09-18 20:54:19 -0500
 guid: http://iKeating.micro.blog/2018/09/19/drill-today-involving.html
 ---
