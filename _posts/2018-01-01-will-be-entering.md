@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-01 00:08:04 -0500
 guid: http://iKeating.micro.blog/2018/01/01/will-be-entering.html
 ---
