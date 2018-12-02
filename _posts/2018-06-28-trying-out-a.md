@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/1b6fc72db6.jpg
 date: 2018-06-28 18:03:02 -0500
 guid: http://iKeating.micro.blog/2018/06/28/trying-out-a.html
 ---
