@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/321019f3ac.jpg
 date: 2018-08-24 21:40:51 -0500
 guid: http://iKeating.micro.blog/2018/08/25/burning-ash-in.html
 ---
