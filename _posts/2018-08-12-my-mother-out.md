@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/c776cf0e0a.jpg
 date: 2018-08-12 15:51:20 -0500
 guid: http://iKeating.micro.blog/2018/08/12/my-mother-out.html
 ---
