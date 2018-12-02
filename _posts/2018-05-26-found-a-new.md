@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-25 21:49:27 -0500
 guid: http://iKeating.micro.blog/2018/05/26/found-a-new.html
 ---
