@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/e09a84a444.jpg
 date: 2018-07-14 21:51:08 -0500
 guid: http://iKeating.micro.blog/2018/07/15/the-caduceus-the.html
 ---
