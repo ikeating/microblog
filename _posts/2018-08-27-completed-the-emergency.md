@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/97dd8c36b0.jpg
 date: 2018-08-27 16:08:06 -0500
 guid: http://iKeating.micro.blog/2018/08/27/completed-the-emergency.html
 ---
