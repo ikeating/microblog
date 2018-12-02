@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/f36c48f912.jpg
 date: 2018-06-29 20:16:41 -0500
 guid: http://iKeating.micro.blog/2018/06/30/good-spot-to.html
 ---
