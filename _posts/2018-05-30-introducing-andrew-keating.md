@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/bf331347c2.jpg
 date: 2018-05-29 21:06:20 -0500
 guid: http://iKeating.micro.blog/2018/05/30/introducing-andrew-keating.html
 ---
