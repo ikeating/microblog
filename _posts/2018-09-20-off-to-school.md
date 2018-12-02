@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/b8b3702c0c.jpg
 date: 2018-09-20 07:58:13 -0500
 guid: http://iKeating.micro.blog/2018/09/20/off-to-school.html
 ---
