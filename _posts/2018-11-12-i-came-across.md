@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-12 17:58:12 -0500
 guid: http://iKeating.micro.blog/2018/11/12/i-came-across.html
 ---
