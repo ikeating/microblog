@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-05 13:55:18 -0500
 guid: http://iKeating.micro.blog/2018/02/05/ive-decided-to.html
 ---
