@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/5b5ae2794b.jpg
 date: 2018-10-16 18:42:21 -0500
 guid: http://iKeating.micro.blog/2018/10/16/a-great-set.html
 ---
