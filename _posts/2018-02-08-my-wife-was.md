@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/1c1e86e82f.jpg
 date: 2018-02-07 19:18:10 -0500
 guid: http://iKeating.micro.blog/2018/02/08/my-wife-was.html
 ---
