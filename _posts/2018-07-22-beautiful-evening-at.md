@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/0cefe50f22.jpg
 date: 2018-07-21 19:56:45 -0500
 guid: http://iKeating.micro.blog/2018/07/22/beautiful-evening-at.html
 ---
