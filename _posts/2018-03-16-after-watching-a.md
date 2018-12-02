@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-16 14:45:35 -0500
 guid: http://iKeating.micro.blog/2018/03/16/after-watching-a.html
 ---
