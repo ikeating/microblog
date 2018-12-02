@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/151b224939.jpg
 date: 2018-02-08 19:04:04 -0500
 guid: http://iKeating.micro.blog/2018/02/09/moms-gone-so.html
 ---
