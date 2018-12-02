@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/e5b525f5ad.jpg
 date: 2018-08-30 20:35:16 -0500
 guid: http://iKeating.micro.blog/2018/08/31/sunset-is-moving.html
 ---
