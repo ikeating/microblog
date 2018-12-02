@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/47a2f506b7.jpg
 date: 2018-08-10 09:27:46 -0500
 guid: http://iKeating.micro.blog/2018/08/10/another-typical-day.html
 ---
