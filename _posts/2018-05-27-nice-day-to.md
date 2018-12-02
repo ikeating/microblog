@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/98ab1a2db4.jpg
 date: 2018-05-27 16:14:48 -0500
 guid: http://iKeating.micro.blog/2018/05/27/nice-day-to.html
 ---
