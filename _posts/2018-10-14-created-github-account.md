@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-14 13:49:49 -0500
 guid: http://iKeating.micro.blog/2018/10/14/created-github-account.html
 ---
