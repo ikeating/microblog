@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/ef22ea86e0.jpg
 date: 2018-10-13 19:24:25 -0500
 guid: http://iKeating.micro.blog/2018/10/14/participated-in-my.html
 ---
