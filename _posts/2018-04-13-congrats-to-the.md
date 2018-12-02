@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-12 22:35:23 -0500
 guid: http://iKeating.micro.blog/2018/04/13/congrats-to-the.html
 ---
