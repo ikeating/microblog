@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-15 20:50:07 -0500
 guid: http://iKeating.micro.blog/2018/04/16/signed-up-for.html
 ---
