@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/634c67145c.jpg
 date: 2018-05-25 21:32:23 -0500
 guid: http://iKeating.micro.blog/2018/05/26/beautiful-start-to.html
 ---
