@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2017/5b41960d05.jpg
 date: 2017-12-10 18:05:29 -0500
 guid: http://iKeating.micro.blog/2017/12/10/french-pressed-camerons.html
 ---
