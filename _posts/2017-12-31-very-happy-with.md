@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-30 21:18:18 -0500
 guid: http://iKeating.micro.blog/2017/12/31/very-happy-with.html
 ---
