@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-04 18:10:35 -0500
 guid: http://iKeating.micro.blog/2018/06/04/today-was-a.html
 ---
