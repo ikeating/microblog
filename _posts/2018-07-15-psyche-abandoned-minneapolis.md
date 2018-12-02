@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://iKeating.micro.blog/uploads/2018/e57d722d58.jpg
 date: 2018-07-14 20:53:17 -0500
 guid: http://iKeating.micro.blog/2018/07/15/psyche-abandoned-minneapolis.html
 ---
